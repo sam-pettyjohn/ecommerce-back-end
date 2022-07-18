@@ -1,15 +1,17 @@
 ![MIT](https://img.shields.io/badge/License-MIT-blue)
-# # E-Commerce Back End
+# E-Commerce Back End
 
 ## Description
 
 Custom built back end for an e-commerce site using Express.js API and configured to use Sequelize to interact with a MySQL database. 
 
-Please use this [video](TBD) for a walkthough tutorial of this project.
+Please use the videos below for a walkthough tutorial of this project:
+- [Part One](https://drive.google.com/file/d/1E9UWVlBM6crJ_jTYjk3VfTyoYW67KDiA/view) 
+- [Part Two](https://drive.google.com/file/d/1IxdnVxhgUKUqwvh_EKDFowg8jfWeq2f9/view) 
 
 ## Table of Contents
 
-- [E-Commerce Back End](#E-Commerce-Back-End)
+- [E-Commerce Back End](#e-commerce-back-end)
   - [Description](#description)
   - [Table of Contents](#table-of-contents)
   - [User Story](#user-story)
